@@ -1,10 +1,10 @@
 # Secret Room - A Secure and Dynamic React.js Application
 
 ## Overview
-SecretGuardian is a dynamic web application showcasing proficiency in React.js, featuring user authentication, secrets posting, and responsive design.
+Secret Room is a dynamic web application showcasing proficiency in React.js, featuring user authentication, secrets posting, and responsive design.
 
 ## Tech Stack
-- **React.js**: 
+- **React.js**: The frontend is built using React.js to handle client-side logic.
 - **Node.js**: The backend is built using Node.js to handle server-side logic.
 - **Express**: Express is used as the web framework for routing and handling HTTP requests.
 - **MongoDB**: MongoDB is used as the database for storing secrets and user information.
@@ -32,10 +32,14 @@ SecretGuardian is a dynamic web application showcasing proficiency in React.js, 
 
 - **Security, User Experience, and Code Structure:**
    - Adheres to best practices in terms of security, user experience, and code structure.
-- **Anonymous Secret Sharing**: Users can share their secrets without revealing their identity.
-- **Secure Storage**: Secrets are securely stored in a MongoDB database.
-- **User Authentication**: User registration and login functionality for added privacy and security.
-- **Encryption**: Secrets are encrypted before being stored in the database, ensuring confidentiality.
+- **Anonymous Secret Sharing**:
+   - Users can share their secrets without revealing their identity.
+- **Secure Storage**:
+   - Secrets are securely stored in a MongoDB database.
+- **User Authentication**:
+   - User registration and login functionality for added privacy and security.
+- **Encryption**:
+   - Secrets are encrypted before being stored in the database, ensuring confidentiality.
 
 ## Submission Guidelines
 
