@@ -1,6 +1,7 @@
-# Secret-Room (Secret Sharing Website)
+# Secret Room - A Secure and Dynamic React.js Application
 
-Welcome to the Secret Sharing Website, a platform where users can anonymously share their secrets securely. This project is built using Node.js and MongoDB.
+## Overview
+SecretGuardian is a dynamic web application showcasing proficiency in React.js, featuring user authentication, secrets posting, and responsive design.
 
 ## Tech Stack
 - **React.js**: 
@@ -11,11 +12,6 @@ Welcome to the Secret Sharing Website, a platform where users can anonymously sh
 - **bcrypt**: bcrypt is used for password hashing to ensure secure user authentication.
 - **Bootstrap**: Bootstrap is used for responsive and sleek user interface design.
 
-# SecretGuardian - A Secure and Dynamic React.js Application
-
-## Overview
-
-SecretGuardian is a dynamic web application showcasing proficiency in React.js, featuring user authentication, secrets posting, and responsive design.
 
 ## Features
 
