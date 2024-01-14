@@ -3,6 +3,15 @@
 ## Overview
 Secret Room is a dynamic web application showcasing proficiency in React.js, featuring user authentication, secrets posting, and responsive design.
 
+## Submission Guidelines
+
+### GitHub Repository:
+1. Pushed the project to GitHub: (https://github.com/amirali72/Secret-Room)
+
+### Live Deployment:
+2. Deployed on Render: (https://secret-room-s8pf.onrender.com/)
+
+
 ## Tech Stack
 - **React.js**: The frontend is built using React.js to handle client-side logic.
 - **Node.js**: The backend is built using Node.js to handle server-side logic.
@@ -41,13 +50,6 @@ Secret Room is a dynamic web application showcasing proficiency in React.js, fea
 - **Encryption**:
    - Secrets are encrypted before being stored in the database, ensuring confidentiality.
 
-## Submission Guidelines
-
-### GitHub Repository:
-1. Pushed the project to GitHub: (https://github.com/amirali72/Secret-Room)
-
-### Live Deployment:
-2. Deployed on Render: (https://secret-room-s8pf.onrender.com/)
 
 ### Instructions for Running the Application:
 
